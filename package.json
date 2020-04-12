@@ -1,0 +1,10 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Assisneto",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
